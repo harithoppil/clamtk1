@@ -1,4 +1,4 @@
-This readme file was last updated on 03 November 2016
+This readme file was last updated on 18 November 2016
 
 # Readme for ClamTk
 
@@ -221,7 +221,7 @@ The plan for the 5.xx series was to use Gtk3. Unfortunately, Debian and Ubuntu d
 
 ## Thank you
 
-Many people have contributed their time, energy, opinions, recommendations, and expertise to this software. I cannot thank them enough. Their names are listed on the ClamTk website.
+Many people have contributed their time, energy, opinions, recommendations, and expertise to this software. I cannot thank them enough. Their names are listed in the [credits.md file](credits.md)
 
 Also a big thank you to:
 * Everyone who has contributed in one way or another to ClamTk - including language files, bug notifications, and feature requests
