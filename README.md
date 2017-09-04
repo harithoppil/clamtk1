@@ -1,4 +1,4 @@
-This readme file was last updated on 18 November 2016
+This readme file was last updated on 18 February 2017
 
 # Readme for ClamTk
 
@@ -19,7 +19,7 @@ This readme file was last updated on 18 November 2016
 
 ClamTk is a frontend for ClamAV (Clam Antivirus). It is intended to be an easy to use, light-weight, on-demand scanner for Linux systems. It has been ported to Fedora, Debian, RedHat, openSUSE, ALT Linux, Ubuntu, CentOS, Gentoo, Archlinux, Mandriva, PCLinuxOS, Frugalware, FreeBSD, and others.
 
-Although its earliest incarnations date to 2003, ClamTk was first uploaded for distribution in 2004 to a rootshell.be account and finally to Sourceforge.net in 2005. At the end of 2013, we moved to a Google Code page (then to github), gitlab, and Bitbucket. It's now 2016 and for some reason, it's still going.  In fact, February 2016 marks 12 years of activity (of being publically available, that is).
+Although its earliest incarnations date to 2003, ClamTk was first uploaded for distribution in 2004 to a rootshell.be account and finally to Sourceforge.net in 2005. At the end of 2013, we moved to a Google Code page (then to github), gitlab, and Bitbucket. It's now 2017 and for some reason, it's still going.  In fact, February 2017 marks 13 years of activity (of being publically available, that is).
 
 
 ### Important Links
@@ -28,7 +28,7 @@ ClamTk:
 * https://dave-theunsub.github.io/clamtk/
 * https://gitlab.com/dave_m/clamtk
 * https://github.com/dave-theunsub/clamtk/
-* https://bitbucket.org/dave_theunsub/clamtk/
+* https://bitbucket.org/davem_/clamtk/
 * https://code.google.com/p/clamtk/ (not used anymore)
 * http://clamtk.sourceforge.net (not used anymore)
 
@@ -240,4 +240,3 @@ For feature requests or bugs, it's best to use one of the following:
 While we recommend opening an official bug on the appropriate page, we'll also accept emails:
 
 * Dave M, dave.nerd AT gmail DOT com (0x6ADA59DE)
-* Tord D, tord.dellsen AT gmail DOT com (0xF40F0D93)
