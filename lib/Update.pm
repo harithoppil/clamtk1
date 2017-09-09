@@ -1,4 +1,4 @@
-# ClamTk, copyright (C) 2004-2016 Dave M
+# ClamTk, copyright (C) 2004-2017 Dave M
 #
 # This file is part of ClamTk (https://dave-theunsub.github.io/clamtk).
 #
@@ -127,7 +127,7 @@ sub show_window {
 }
 
 sub get_remote_TK_version {
-    my $url = 'https://bitbucket.org/dave_theunsub/clamtk/raw/master/latest';
+    my $url = 'https://bitbucket.org/davem_/clamtk/raw/master/latest';
     # my $url = 'http://clamtk.googlecode.com/git/latest';
 
     $ENV{ HTTPS_DEBUG } = 1;
