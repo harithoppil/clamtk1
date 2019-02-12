@@ -235,7 +235,7 @@ Also a big thank you to:
 ## Contact
 
 For feature requests or bugs, it's best to use one of the following:
-* https://github.com/dave-theunsub/clamtk/issues
+* https://gitlab.com/dave_m/clamtk/issues
 * https://launchpad.net/clamtk
 
 While we recommend opening an official bug on the appropriate page, we'll also accept emails:
