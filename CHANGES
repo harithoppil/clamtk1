@@ -1,5 +1,9 @@
 CHANGELOG for ClamTk:
 
+6.08 - 2021XXXX
+---------------
+    * Completely remove older repo (clamtk-gtk3), use clamtk only
+
 6.07 - 20210130
 ---------------
     * Update to look for additional information during update
