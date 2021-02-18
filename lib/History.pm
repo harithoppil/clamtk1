@@ -1,4 +1,4 @@
-# ClamTk, copyright (C) 2004-2020 Dave M
+# ClamTk, copyright (C) 2004-2021 Dave M
 #
 # This file is part of ClamTk
 # (https://gitlab.com/dave_m/clamtk-gtk3/).
@@ -148,7 +148,7 @@ sub view_history {
 
     my $win = Gtk3::Dialog->new(
         sprintf( _( 'Viewing %s' ), $basename ),
-        undef, [ qw| modal destroy-with-parent no-separator | ],
+        undef, [ qw| modal destroy-with-parent | ],
     );
     $win->signal_connect( destroy => sub { $win->destroy; 1 } );
     $win->set_default_size( 800, 350 );
