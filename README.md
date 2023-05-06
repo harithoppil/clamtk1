@@ -1,4 +1,4 @@
-This README was last checked or updated on 15 January 2022.
+This README was last checked or updated on 20230506.
 
 # Readme for ClamTk
 
@@ -290,4 +290,5 @@ Also a big thank you to:
 
 ## Contact
 
-* Dave M, dave.nerd @gmail.com [0xF51D19546ADA59DE](https://pgp.circl.lu/pks/lookup?op=get&search=0xF51D19546ADA59DE)  
+* Dave M, dave.nerd @gmail.com
+  [0xC81DF0FAC4AFEB22](https://davem.fedorapeople.org/RPM-GPG-KEY-DaveM-20230506)
